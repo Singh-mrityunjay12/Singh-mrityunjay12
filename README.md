@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mrityunjay Singh</h1>
 <h3 align="center">I an currently studying as a B.tech student of Information Technology</h3>
 
-< img  align="right" width="400px" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="coding" width="400px" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh-mrityunjay12&label=Profile%20views&color=0e75b6&style=flat" alt="singh-mrityunjay12" /> </p>
 
 
