@@ -1,4 +1,4 @@
-![logo]([https://raw.githubusercontent.com/Ankush1200/Ankush1200/main/Github_banner.png](https://github.com/Singh-mrityunjay12/Singh-mrityunjay12/blob/main/about.jpg))
+![logo](https://github.com/Singh-mrityunjay12/Singh-mrityunjay12/blob/main/about.jpg)
 <h1 align="center">Hi 👋, I'm Mrityunjay Singh</h1>
 <h3 align="center">I an currently studying as a B.tech student of Information Technology</h3>
 
