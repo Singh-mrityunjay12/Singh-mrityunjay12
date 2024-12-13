@@ -1,6 +1,6 @@
 ![logo](https://github.com/Singh-mrityunjay12/Singh-mrityunjay12/blob/main/about.jpg)
 <h1 align="center">Hi 👋, I'm Mrityunjay Singh</h1>
-<h3 align="center">I an currently studying as a B.tech student of Information Technology</h3>
+<h3 align="center">I have done B.Tech Information Technology</h3>
 
 <img align="right" alt="coding" width="400px" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh-mrityunjay12&label=Profile%20views&color=0e75b6&style=flat" alt="singh-mrityunjay12" /> </p>
